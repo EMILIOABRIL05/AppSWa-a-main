@@ -3,8 +3,8 @@
 ### Carrera de Ingeniería en Software  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** Emilio Abril
-**Fecha:** 
+**Nombre del Estudiante:** Emilio Alexander Abril Lara
+**Fecha:** 5 de abril de 2026
 
 ---
 
