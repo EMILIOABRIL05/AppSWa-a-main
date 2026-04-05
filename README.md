@@ -66,7 +66,7 @@ git pull: traer y fusionar los cambios desde el repositorio remoto al local.
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
-![Pregunta 2](Pre2.png)
+![Pregunta2](Pre2.png)
 ![Pregunta 2](Preg2.png)
 ---
 
