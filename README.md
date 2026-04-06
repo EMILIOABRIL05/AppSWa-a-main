@@ -3,8 +3,8 @@
 ### Carrera de Ingeniería en Software  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** Emilio Abril
-**Fecha:** 
+**Nombre del Estudiante:** Emilio Alexander Abril Lara
+**Fecha:** 5 de abril de 2026
 
 ---
 
@@ -97,7 +97,7 @@ git pull: traer y fusionar los cambios desde el repositorio remoto al local.
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
-![Pregunta 3](Pre3.png)
+![Pregunta3](Pre3.png)
 ![Pregunta 3](Preg3.png)
 ---
 
@@ -131,15 +131,15 @@ git pull: traer y fusionar los cambios desde el repositorio remoto al local.
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
-Issue: Es una tarea, error o sugerencia registrada en un proyecto de GitHub. Sirve para organizar el trabajo.
+Issue: Es una tarea, error o sugerencia registrada en un proyecto de GitHub. Sirve para organizar todo el proyecto.
 
-Pull Request: Es una solicitud para fusionar cambios de una rama a otra. Se usa para revisar y aprobar el código antes de integrarlo.
+Pull Request: Es una solicitud para fusionar cambios de una rama a otra. Se usa para revisar y aprobar el código antes de integrarlo como una solución funcional.
 
 Diferencia:
 
-El issue describe qué se debe hacer.
+El issue describe que se debe hacer.
 
-El pull request muestra cómo se resolvió.
+El pull request muestra como se resolvio directamente.
 
 Se relacionan porque un pull request puede cerrar un issue al resolverlo.
 
